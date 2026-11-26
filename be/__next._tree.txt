@@ -1,0 +1,5 @@
+:HL["/_next/static/css/a52ca4644946de45.css","style"]
+:HL["/_next/static/css/53adcb7d8152c979.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"be","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":65648,"c":"$Q2"}]]
+0:{"b":"-I6EVVX-42aBjFPq0Pgkx","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
