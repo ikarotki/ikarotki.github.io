@@ -2,4 +2,4 @@
 :HL["/_next/static/css/53adcb7d8152c979.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":65648,"c":"$Q2"}]]
-0:{"b":"dCtwAznQMlzrDDA9sIXwz","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"qiVIn-ScneF5aB5HYx6MI","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
