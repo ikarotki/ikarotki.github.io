@@ -1,5 +1,5 @@
 :HL["/_next/static/css/192a51ada30ce9a5.css","style"]
-:HL["/_next/static/css/5907bd7b94d2f541.css","style"]
+:HL["/_next/static/css/7345aaa7605af173.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":65648,"c":"$Q2"}]]
-0:{"b":"NCJkKFtBn9W7qMhFv_mm1","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"UbIT2gk5zF45IlrWiQ0o6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
